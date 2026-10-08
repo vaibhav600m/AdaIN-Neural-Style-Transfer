@@ -1,0 +1,7 @@
+torch
+torchvision
+pillow
+flask
+flask-wtf
+wtforms
+tqdm

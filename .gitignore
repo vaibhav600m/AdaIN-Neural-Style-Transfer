@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Flask Uploads (Keep folder structure empty)
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Local IDE configurations
+.vscode/
+.idea/
